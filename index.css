@@ -1,0 +1,72 @@
+/* body{
+    background-color: blue;
+} */
+  .btn-section{
+      text-align: center;
+      height: 201px;
+      padding: 0px;
+      
+  }
+
+  .pet-section{
+      height: 338px;
+      z-index: 1;
+      border-top-left-radius: 29px;
+      border-top-right-radius: 29px;
+      margin-top: -35px;
+  }
+
+  .emrgency-btn{
+      width: 358px;
+      height: 59px;
+      font-size: 30px;
+      border-radius: 8px;
+      margin-top: 8px;
+  }
+
+  .main-btns{
+      height:112px;
+      width: 114px;
+      border-radius: 8px;
+      text-align: center;
+      display: inline-block;
+      margin-top: 12px;
+      
+  }
+
+  .scrolling-wrapper {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    /* display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto; */
+    text-align: center;
+  }
+  
+    .card {
+      display: inline-block;
+      /* flex: 0 0 auto; */
+      height: 125px;
+      width: 125px;
+      border-radius: 50%;
+      margin: 10px;
+      border: 7px solid #D7DAD8;
+      vertical-align: middle;
+    }
+  
+    .primary-card{
+        display: inline-block;
+        /* flex: 0 0 auto; */
+        height: 150px;
+        width: 150px;
+        border-radius: 50%;
+        border: 8px solid #82CAA6;
+        margin: 10px;
+        vertical-align: middle;
+    }
+
+    .big-mod{
+        height:337px;
+    }
+

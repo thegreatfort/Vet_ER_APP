@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="22px" viewBox="0 0 13 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 16.0412545 0 16.0412545 16.0155395 0 16.0155395"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Who's-sick?" transform="translate(-339.000000, -19.000000)">
+            <g id="Heading" transform="translate(22.000000, 18.000000)">
+                <g id="Group-3" transform="translate(318.500000, 12.500000) scale(-1, 1) rotate(45.000000) translate(-318.500000, -12.500000) translate(310.000000, 4.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M14.8708375,13.6790103 L2.34018624,13.6790103 L2.34018624,1.16794122 C2.34018624,0.525120857 1.81359576,0 1.17041698,0 C0.526590482,0 0,0.525120857 0,1.16794122 L0,14.8475982 C0,15.4904186 0.526590482,16.0155395 1.17041698,16.0155395 L14.8708375,16.0155395 C15.514664,16.0155395 16.0412545,15.4904186 16.0412545,14.8475982 C16.0412545,14.2047779 15.514664,13.6790103 14.8708375,13.6790103" id="Fill-1" fill="#4A4A4A" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

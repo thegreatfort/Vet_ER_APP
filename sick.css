@@ -1,0 +1,62 @@
+
+.pet-section{
+    height: 667px;
+    border-top-left-radius: 29px;
+    border-top-right-radius: 29px;
+    margin-top: -35px;
+    z-index: 1;
+}
+
+.card {
+    display: inline-block;
+    /* flex: 0 0 auto; */
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    margin: 10px;
+    border: 7px solid #D7DAD8;
+    vertical-align: middle;
+  }
+
+.name{
+    font-size: 28px;
+}
+
+.stats{
+    font-size: 14px;
+}
+
+  .in-blk{
+      display: inline-block;
+  }
+
+  .vert-mid{
+      vertical-align: middle; 
+  }
+
+.extra-tp{
+    padding-top: 20px;
+}
+
+
+.cnt-align{
+    text-align: center;
+}
+
+
+
+.back-btn{
+    float: left;
+}
+.skip-arrow{
+    float: right;
+}
+.skip-btn{
+    float: right;
+}
+
+
+
+.sBar{
+    padding-top: 22px;
+}

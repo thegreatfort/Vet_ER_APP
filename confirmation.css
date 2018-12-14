@@ -1,0 +1,7 @@
+.conf-section{
+    height: 667px;
+    border-top-left-radius: 29px;
+    border-top-right-radius: 29px;
+    margin-top: -35px;
+    z-index: 1;
+}

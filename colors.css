@@ -1,0 +1,24 @@
+.white-text{
+    color: white;
+}
+
+  .bgnd-white{
+    background-color: white;
+  }
+
+  .bgnd-grey{
+    background-color: #ECEBEB;
+  }
+
+  .bgnd-grn{
+    background-color: #82CAA6;
+  }
+
+  .bgnd-red{
+    background-color: #E9596E;
+}
+
+.clr-bgnd
+{
+    background-color: rgba(0, 0, 0, 0)
+}

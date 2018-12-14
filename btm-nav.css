@@ -1,0 +1,36 @@
+.btm-nav{
+    background-color: #FBFAFA;
+    text-align: center;
+   
+}
+
+.nav-text{
+    font-size: 8px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.nav-img{
+    height: 24px;
+    width: 18px;
+}
+
+.nav-info{
+    height: 24px;
+    width: 23px;
+}
+
+.nav-learn{
+    height: 24px;
+    width: 23px;
+}
+
+.next-btn{
+    width: 358px;
+    height: 59px;
+    font-size: 30px;
+    border-radius: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
