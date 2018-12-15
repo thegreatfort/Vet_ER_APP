@@ -2,60 +2,76 @@
     height: 667px;
     border-top-left-radius: 29px;
     border-top-right-radius: 29px;
-    margin-top: -35px;
+    margin-top: -20px;
     z-index: 1;
 }
 
-card {
+.top{
+    height: 200px;
+}
+
+.heading{
+    padding-top: 40px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.in-blk{
     display: inline-block;
-    /* flex: 0 0 auto; */
-    height: 125px;
-    width: 125px;
-    border-radius: 50%;
-    margin: 10px;
-    border: 7px solid #D7DAD8;
-    vertical-align: middle;
-  }
-
-.name{
-    font-size: 28px;
 }
 
-.stats{
-    font-size: 14px;
+.vert-mid{
+    vertical-align: middle; 
 }
-
-  .in-blk{
-      display: inline-block;
-  }
-
-  .vert-mid{
-      vertical-align: middle; 
-  }
 
 .extra-tp{
-    padding-top: 20px;
+  padding-top: 20px;
 }
-
 
 .cnt-align{
-    text-align: center;
+  text-align: center;
 }
-
-
 
 .back-btn{
-    float: left;
+  float: left;
 }
 .skip-arrow{
-    float: right;
+  float: right;
 }
 .skip-btn{
-    float: right;
+  float: right;
 }
 
-
+.f-center{
+  float: center;
+}
 
 .sBar{
-    padding-top: 22px;
+  padding-top: -22px;
+}
+
+.top-nav-btns{
+  padding-top: 5px;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  border: none;
+  border-radius: 14px;
+  margin-top: 8px;
+  margin-right: 0px;
+  font-size: 17px;
+  width: 286px;
+}
+
+.list-icon{
+    height: 53px;
+    width: 53px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.rgt-align{
+    text-align: right;
 }

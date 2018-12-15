@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="47px" viewBox="0 0 68 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30.5869386,51.3989291 L84.6223361,51.3989291 L84.6223361,59.3989291 L30.5869386,59.3989291 L30.5869386,59.586932 L21.5869386,59.586932 L21.5869386,30.586932 L30.5869386,30.586932 L30.5869386,51.3989291 Z" id="path-1"></path>
+        <filter x="-3.7%" y="-7.2%" width="106.4%" height="115.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Who's-sick?_selected" transform="translate(-50.000000, -368.000000)">
+            <g id="selected" transform="translate(31.000000, 338.000000)">
+                <g id="Combined-Shape" transform="translate(53.457230, 44.906608) rotate(-39.000000) translate(-53.457230, -44.906608) ">
+                    <use fill="#50BC86" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

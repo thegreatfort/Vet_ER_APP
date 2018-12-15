@@ -12,17 +12,24 @@
     <link rel="stylesheet" media="screen and (max-width: 375px)" href="topbanner.css">
     <link rel="stylesheet" media="screen and (max-width: 375px)" href="colors.css">
     <link rel="stylesheet" media="screen and (max-width: 375px)" href="map.css">
-    <title>Document</title>
+    <title>Map</title>
 </head>
 <body>
     <!-- !! -->
     <!-- Top Nav -->
     <!-- !! -->
     <div class='top-banner bgnd-grn topnav'>
-            <h5 class='title white-text'>SCOUT</h5>
-            <div class="container">
-                <img src='img/Scout-White-Icon.png' class = 'icon'>
-                <input type="text" placeholder="Search Vets...">
+            <div class="container top-nav-btns">
+                    <div class="back-btn vert-mid">
+                    <h5 class= " in-blk white-text"> < back</h5>
+                </div>
+                
+                    <div class="skip-btn vert-mid">
+                    <h5 class= "in-blk cnt-align white-text"> skip > </h5>
+                </div>
+            </div>
+            <div class="container cnt-align">
+                <input type="text" class="cnt-align" placeholder="Find a Vet Hospital">
             </div>
         </div>
     
@@ -38,8 +45,8 @@
         <!-- !!! -->
         <!-- Bottom Nav -->
         <!-- !!! -->
-        <div class ="fixed-bottom cnt-align clr-bgnd">
-        <button type="button" class="btn bgnd-red next-btn white-text">NEXT</button>
+        <div class ="fixed-bottom rgt-align clr-bgnd">
+        <a href="vetlist.html"><img src="img/list-icon.svg" class="list-icon"></a>
         <ul class="nav btm-nav justify-content-center">
             <li class="nav-item">
                 <a class="nav-link active" href="#"><img src='img/Finder-Pin.png' class='nav-img'><p class='nav-text'>Finder</p></a>
