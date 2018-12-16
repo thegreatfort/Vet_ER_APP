@@ -1,7 +1,72 @@
 .vetp-section{
-    height: 667px;
     border-top-left-radius: 29px;
     border-top-right-radius: 29px;
     margin-top: -35px;
     z-index: 1;
+    padding-bottom: 50px;
+}
+.top{
+    height:200px;
+}
+.in-blk{
+    display: inline-block;
+}
+
+.vert-mid{
+    vertical-align: middle; 
+}
+
+.extra-tp{
+  padding-top: 20px;
+}
+
+
+.cnt-align{
+  text-align: center;
+}
+
+.back-btn{
+  float: left;
+}
+.skip-arrow{
+  float: right;
+}
+.skip-btn{
+  float: right;
+}
+
+.f-center{
+  float: center;
+}
+
+.sBar{
+  padding-top: -22px;
+}
+
+.top-nav-btns{
+  padding-top: 5px;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  border: none;
+  border-radius: 14px;
+  margin-top: 8px;
+  margin-right: 0px;
+  font-size: 17px;
+  width: 286px;
+}
+
+.vp-cards{
+    height: 117px;
+    width: 356px;
+}
+
+.v-title{
+    padding-top: 40px;
+    font-size: 30px;
+}
+
+.v-loc{
+    font-size: 14px;
 }

@@ -1,9 +1,10 @@
-.conf-section{
+.pic-section{
    
     border-top-left-radius: 29px;
     border-top-right-radius: 29px;
     margin-top: -45px;
     z-index: 1;
+
 }
 
 .top{
@@ -49,10 +50,45 @@
   padding-top: 5px;
 }
 
-.info{
-    padding: 60px;
-}
+
 
 .words{
     padding-top: 24px;
+}
+.friend-btn{
+    width: 314px;
+    height: 115px;
+    margin-bottom: 15px;
+  }
+  
+  .bcrumb{
+    padding-top: 60px;
+    width:199px;
+  }
+  
+  .heading{
+    font-size: 34px;
+  }
+  .info{
+      width: 80%;
+      height: 80%;
+  }
+
+  .imgs{
+      margin:10px;
+      margin-top: 30px;
+
+  }
+
+  .btn-mar{
+      padding-top: 20px;
+  }
+
+  .info-btn{
+    width: 260px;
+    height: 43px;
+    font-size: 21px;
+    border-radius: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }

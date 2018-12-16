@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="54px" viewBox="0 0 36 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Wait Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="GillSans, Gill Sans" font-weight="normal">
+        <g id="Vet_list" transform="translate(-298.000000, -255.000000)" fill="#E9596E">
+            <g id="Wait-Icon" transform="translate(276.000000, 249.000000)">
+                <text id="15" font-size="48">
+                    <tspan x="13.5" y="44">15</tspan>
+                </text>
+                <text id="min" font-size="23">
+                    <tspan x="22.3623047" y="58">min</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

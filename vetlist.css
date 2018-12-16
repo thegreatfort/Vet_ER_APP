@@ -49,6 +49,7 @@
 
 .sBar{
   padding-top: -22px;
+
 }
 
 .top-nav-btns{
@@ -75,3 +76,75 @@
 .rgt-align{
     text-align: right;
 }
+
+.lft-align{
+    text-align: left;
+}
+
+.wtime{
+    margin-left: 40px;
+}
+
+.vet{
+    font-size: 20px;
+}
+
+.vet-card{
+    margin-top: 10px;
+}
+
+.vet-stuff{
+    font-size: 15px;
+}
+
+.vet-btn{
+    width: 159px;
+    height: 39px;
+    border: none;
+    margin: 5px;
+}
+
+.btmn-card{
+    margin-bottom: 100px;
+}
+
+.sborder{
+    border: 1px solid black;
+}
+
+/* Dropdown button */
+
+.dropbtn {
+    background-color: white;
+    color: black;
+    padding-right: 4px;
+    padding-left:4px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 30px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content p {
+    color: black;
+    /* padding: 12px 16px; */
+    text-decoration: none;
+    display: block;
+  }
+
+  .show {display:block;}

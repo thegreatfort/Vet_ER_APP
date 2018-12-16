@@ -1,9 +1,10 @@
-.conf-section{
+.pic-section{
    
     border-top-left-radius: 29px;
     border-top-right-radius: 29px;
     margin-top: -45px;
     z-index: 1;
+
 }
 
 .top{
@@ -56,3 +57,21 @@
 .words{
     padding-top: 24px;
 }
+.friend-btn{
+    width: 314px;
+    height: 115px;
+    margin-bottom: 15px;
+  }
+  
+  .bcrumb{
+    padding-top: 60px;
+    width:199px;
+  }
+  
+  .heading{
+    font-size: 34px;
+  }
+  .info{
+      width: 80%;
+      height: 80%;
+  }

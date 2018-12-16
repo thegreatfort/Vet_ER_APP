@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="364px" height="130px" viewBox="0 0 364 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Estimated Wait Time</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,7.10542736e-15 L347.377418,7.10542736e-15 C351.795696,-2.50999505e-14 355.377418,3.581722 355.377418,8 L355.377418,113.390931 C355.377418,117.809209 351.795696,121.390931 347.377418,121.390931 L8,121.390931 C3.581722,121.390931 -8.47240453e-14,117.809209 -8.52651283e-14,113.390931 L-8.70414851e-14,8 C-8.75825681e-14,3.581722 3.581722,7.91705186e-15 8,7.10542736e-15 Z" id="path-1"></path>
+        <filter x="-2.0%" y="-4.1%" width="103.9%" height="111.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.293166893 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vet_Detail" transform="translate(-6.000000, -277.000000)">
+            <g id="Vet-Info" transform="translate(0.000000, 165.000000)">
+                <g id="Estimated-Wait-Time" transform="translate(10.000000, 114.000000)">
+                    <g id="Path-Copy-3">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <text font-family="GillSans, Gill Sans" font-size="21" font-weight="normal" letter-spacing="0.05727272" fill="#4A4A4A">
+                        <tspan x="26" y="56">Estimated</tspan>
+                        <tspan x="26" y="80">Wait Time</tspan>
+                    </text>
+                    <circle id="Oval" fill="#50BC86" cx="181" cy="61" r="47"></circle>
+                    <path d="M293.511607,41.2473084 C292.901149,42.4476822 293.285102,44.0144858 294.373431,44.7441867 L297.027958,46.5163174 C296.989286,46.6932146 296.947853,46.8732706 296.903656,47.0628033 C296.516941,48.8033452 295.983826,51.1851394 294.569551,53.9459991 C293.152514,56.7131764 291.597365,58.4126529 290.459316,59.6540921 C290.340539,59.786765 290.224524,59.9099612 290.114034,60.0331575 L288.335141,58.8454192 L287.456744,58.2578679 C286.371178,57.5313259 284.987288,57.916709 284.374068,59.110765 L281.291391,65.1379047 C280.678171,66.3351196 281.064886,67.9050821 282.150453,68.6316241 L283.644832,69.6235119 C284.274627,69.8762221 284.94033,70.0783903 285.630894,70.1699978 C286.288311,70.2521286 286.893244,70.242652 287.478842,70.1478857 C292.194012,69.4087082 295.826377,65.7696804 300.008431,57.5881857 C305.792593,46.2825604 303.549642,39.2382619 303.447439,38.9381684 C303.220934,38.2811217 302.930897,37.6714582 302.55523,37.0775891 C302.149179,36.4394957 301.668546,35.8740565 301.143718,35.419178 L299.679723,34.3672716 C298.594157,33.6407296 297.210267,34.0261127 296.594284,35.2233276 L293.511607,41.2473084 Z" id="Fill-22" fill="#4A4A4A"></path>
+                    <text id="15-min" font-family="GillSans, Gill Sans" font-size="51" font-weight="normal" line-spacing="21" letter-spacing="0.0599999987" fill="#FFFFFF">
+                        <tspan x="155" y="96">15</tspan>
+                        <tspan x="235.081426" y="122.214844" font-size="22"></tspan>
+                        <tspan x="179.158672" y="143.214844" font-size="21" letter-spacing="1.86">min</tspan>
+                    </text>
+                    <text id="512-961-3246" font-family="GillSans, Gill Sans" font-size="14" font-weight="normal" letter-spacing="-0.439999998" fill="#4A4A4A">
+                        <tspan x="256.250352" y="90">512 961 3246</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

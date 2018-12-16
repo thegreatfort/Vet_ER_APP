@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>selected</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Notified_Directions" transform="translate(-144.000000, -229.000000)">
+            <g id="Submitted" transform="translate(0.000000, 169.000000)">
+                <g id="selected" transform="translate(144.000000, 60.000000)">
+                    <circle id="Oval-4" fill="#50BC86" cx="50" cy="50" r="50"></circle>
+                    <path d="M25.8655759,45.5264321 L80.9188667,45.5264321 L80.9188667,52.5264321 L25.8655759,52.5264321 L25.8655759,52.6769207 L16.8655759,52.6769207 L16.8655759,25.6769207 L25.8655759,25.6769207 L25.8655759,45.5264321 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(48.892221, 39.176921) rotate(-39.000000) translate(-48.892221, -39.176921) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

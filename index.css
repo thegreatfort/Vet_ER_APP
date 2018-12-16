@@ -70,3 +70,15 @@
         height:337px;
     }
 
+    .vert-mid{
+        vertical-align: middle;
+    }
+
+    .in-blk{
+        display: inline-block;
+    }
+
+    .icon{
+        padding-bottom:-20px;
+    }
+
