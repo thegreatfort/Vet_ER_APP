@@ -1,0 +1,77 @@
+.sel-section{
+   
+    border-top-left-radius: 29px;
+    border-top-right-radius: 29px;
+    margin-top: -45px;
+    z-index: 1;
+
+}
+
+.top{
+    height: 200px;
+}
+
+.in-blk{
+    display: inline-block;
+}
+
+.vert-mid{
+    vertical-align: middle; 
+}
+
+.extra-tp{
+  padding-top: 20px;
+}
+
+
+.cnt-align{
+  text-align: center;
+}
+
+.back-btn{
+  float: left;
+}
+.skip-arrow{
+  float: right;
+}
+.skip-btn{
+  float: right;
+}
+
+.f-center{
+  float: center;
+}
+
+.sBar{
+  padding-top: -22px;
+}
+
+.top-nav-btns{
+  padding-top: 5px;
+}
+
+.info{
+    padding: 60px;
+}
+
+.words{
+    padding-top: 24px;
+}
+
+.friend-btn{
+  width: 314px;
+  height: 115px;
+  margin-bottom: 15px;
+}
+
+.bcrumb{
+  padding-top: 60px;
+}
+
+.heading{
+  font-size: 34px;
+}
+
+.btns{
+  padding-top: 50px;
+}

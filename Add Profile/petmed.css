@@ -109,3 +109,9 @@ margin-top: -50px;
   .form-check{
     margin-bottom:-20px;
   }
+
+  .reminder{
+      margin: 10px;
+      height:111px;
+      width: 275px;
+  }

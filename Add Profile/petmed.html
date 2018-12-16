@@ -11,7 +11,7 @@
     <link rel="stylesheet" media="screen and (max-width: 375px)" href="btm-nav.css">
     <link rel="stylesheet" media="screen and (max-width: 375px)" href="topbanner.css">
     <link rel="stylesheet" media="screen and (max-width: 375px)" href="colors.css">
-    <link rel="stylesheet" media="screen and (max-width: 375px)" href="choosetype.css">
+    <link rel="stylesheet" media="screen and (max-width: 375px)" href="petmed.css">
     <title>Confirmation</title>
 </head>
 <body>
@@ -19,34 +19,56 @@
     <!-- Top Nav -->
     <!-- !! -->
     <div class='top bgnd-grey topnav'>
-            <div class="container top-nav-btns">
-                <div class="back-btn vert-mid">
-                    <h5 class= " in-blk"> < back</h5>
-                </div>
-                <div class="skip-btn vert-mid">
-                    <h5 class= "in-blk cnt-align"> Cancel > </h5>
-                </div>       
+        <div class="container top-nav-btns">
+            <div class="back-btn vert-mid">
+                <h5 class= " in-blk"> < back</h5>
             </div>
-            <div class="cnt-align">
-                <img src ="../img/flow2/Breadscrumbs5.png" class="bcrumb">
-                <p class="heading">Pet Meds</p>
-            </div>
+            <div class="skip-btn vert-mid">
+                <h5 class= "in-blk cnt-align"> Cancel > </h5>
+            </div>       
         </div>
+        <div class="cnt-align">
+            <img src ="../img/flow2/Breadcrumbs5.png" class="bcrumb">
+            <p class="heading">Pet Meds</p>
+        </div>
+    </div>
         <!-- !! -->
         <!-- Meds Profile Section -->
         <!-- !! -->
-        <div class = "conf-section bgnd-white">
-            <div class="info cnt-align">
-                <img src="img/selected.svg">
-                <img src="img/confirm-des.svg" class="words">
-            </div>
+    <div class = "conf-section bgnd-white">
+            <div class= "container base-info">
+                <form>
+                    <div class="form-group row vert-mid">
+                        <label for="inputBreed" class="in-blk vert-mid col-form-label col">Medication</label>
+                        <div>
+                            <input type="text" class="form-control vert-mid in-blk bgnd-grey col" id="inputPassword" placeholder="Name">
+                        </div>
+                        </div>
+                    <div class="form-group row">
+                        <label for="inputAge" class="in-blk vert-mid col-form-label col">Amount</label>
+                        <div>
+                            <input type="text" class="form-control vert-mid in-blk bgnd-grey col" id="inputPassword" placeholder="Age">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="inputWeight" class="in-blk vert-mid col-form-label col">Frequency</label>
+                        <div>
+                            <input type="text" class="form-control vert-mid in-blk bgnd-grey col" id="inputPassword" placeholder="Weight">
+                        </div>
+                    </div>
+                </form>
+                <button type="button" class="btn bgnd-grn info-btn white-text skip-btn">+ Add Medication</button>               
+            </div>      
+        <div class="cnt-align"> 
+            <img src="../img/flow2/Reminder.png" class="reminder">
         </div>
+    </div>
     
         <!-- !!! -->
         <!-- Bottom Nav -->
         <!-- !!! -->
         <div class ="fixed-bottom cnt-align clr-bgnd">
-        <button type="button" class="btn bgnd-red next-btn white-text">DIRECRTIONS</button>
+        <a href="summary.html"><button type="button" class="btn bgnd-red next-btn white-text">NEXT</button></a>
         <ul class="nav btm-nav justify-content-center">
             <li class="nav-item">
                 <a class="nav-link active" href="#"><img src='../img/Finder-Pin.png' class='nav-img'><p class='nav-text'>Finder</p></a>
