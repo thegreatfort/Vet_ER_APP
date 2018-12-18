@@ -1,8 +1,8 @@
-.sel-section{
+.summary-section{
    
     border-top-left-radius: 29px;
     border-top-right-radius: 29px;
-    margin-top: -45px;
+    margin-top: -60px;
     z-index: 1;
 
 }
@@ -74,4 +74,13 @@
 
 .btns{
   padding-top: 50px;
+}
+
+.pet-pro{
+  padding-top: 50px;
+}
+
+.cosmo{
+  width:184 px;
+  height: 184px;
 }

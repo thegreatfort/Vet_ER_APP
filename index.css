@@ -24,13 +24,20 @@
       margin-top: 8px;
   }
 
+  .btn-row{
+      text-align: center;
+      margin-top: 7px;
+  }
+
   .main-btns{
-      height:112px;
-      width: 114px;
+      /* height:112px; */
+      height: 113px;
+      width: 356 px;
+      /* width: 114px;
       border-radius: 8px;
       text-align: center;
       display: inline-block;
-      margin-top: 12px;
+      margin-top: 12px; */
       
   }
 
