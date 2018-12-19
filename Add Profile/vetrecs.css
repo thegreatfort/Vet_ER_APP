@@ -67,8 +67,10 @@
   }
   
   .heading{
-    font-size: 34px;
+    font-size: 30px;
+    font-family: "Montserrat" 
   }
+  
   .info{
       width: 80%;
       height: 80%;
@@ -91,4 +93,11 @@
     border-radius: 8px;
     margin-top: 8px;
     margin-bottom: 8px;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
 }

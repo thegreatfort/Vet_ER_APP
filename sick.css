@@ -104,3 +104,16 @@
     font-size: 17px;
     width: 286px;
 }
+
+a {
+    color: #000000;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+.heading{
+    font-size: 34px;
+    font-family: "Montserrat" 
+  }
+  

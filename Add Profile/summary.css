@@ -3,6 +3,8 @@
     border-top-left-radius: 29px;
     border-top-right-radius: 29px;
     margin-top: -60px;
+    padding-top: 20px;
+    padding-bottom: 10px;
     z-index: 1;
 
 }
@@ -20,7 +22,7 @@
 }
 
 .extra-tp{
-  padding-top: 20px;
+  padding-top: 40px;
 }
 
 
@@ -69,11 +71,22 @@
 }
 
 .heading{
-  font-size: 34px;
+  font-size: 40px;
+  font-family: "Montserrat" 
+}
+
+.subtitle{
+  font-size: 25px;
+  font-family: "Montserrat" 
+
+}
+.h6{
+  font-weight:300;
+  font-family: "Montserrat" 
 }
 
 .btns{
-  padding-top: 50px;
+  padding-top: 40px;
 }
 
 .pet-pro{
@@ -81,21 +94,24 @@
 }
 
 .cosmo{
-  width:184 px;
+  width:184px;
   height: 184px;
+  margin-bottom:20px;
 }
 
 /* Style the buttons that are used to open and close the accordion panel */
 .accordionz {
-  background-color: #eee;
+  background-color:#EA596E;
   color: #444;
   cursor: pointer;
-  padding: 18px;
+  padding: 20px;
   width: 100%;
   text-align: left;
   border: none;
   outline: none;
   transition: 0.4s;
+  }
+  
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
@@ -111,4 +127,39 @@
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
+}
+.green { color: #5DBC86;
+
+}
+
+.red { color:#EA596E
+ }
+
+.card-header {
+  padding: 3px;
+  margin-bottom: 5px;
+  background-color: #EA596E
+
+}
+
+.h6{
+  color: #FFFFFF
+  font-weight: bold;
+  font-family: "Montserrat" 
+  
+}
+
+.btn-link {
+  color:#FFFFFF
+}
+
+.card-body {
+  text-align: left;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
 }

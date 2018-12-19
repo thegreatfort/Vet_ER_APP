@@ -67,8 +67,18 @@
 .v-title{
     padding-top: 40px;
     font-size: 30px;
+    font-family: "Montserrat" 
+    }
+    
 }
 
 .v-loc{
     font-size: 14px;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
 }

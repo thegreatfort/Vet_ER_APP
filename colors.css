@@ -6,12 +6,24 @@
     background-color: white;
   }
 
+  .bgnd-white-confirm{
+    background-color: white;
+    width: 200px;
+    height: 40px;
+  }
+
   .bgnd-grey{
     background-color: #ECEBEB;
   }
 
   .bgnd-grn{
     background-color: #50BC86;
+  }
+
+  .bgnd-grn-confirm{
+    background-color: #50BC86;
+    width: 200px;
+    height: 40px;
   }
 
   .bgnd-red{
@@ -33,4 +45,8 @@
 .clr-bgnd
 {
     background-color: rgba(0, 0, 0, 0)
+}
+
+.bgnd-darkgrey{
+  background-color: #979797;
 }
