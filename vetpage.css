@@ -7,6 +7,8 @@
 }
 .top{
     height:200px;
+    background-image: url("img/vetimage.png");
+    background-size: 100%;
 }
 .in-blk{
     display: inline-block;

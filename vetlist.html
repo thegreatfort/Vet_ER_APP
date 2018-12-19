@@ -14,7 +14,6 @@
     <link rel="stylesheet" media="screen and (max-width: 375px)" href="vetlist.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link rel="stylesheet" media="screen and (max-width: 375px)" href="fonts.css">
-    <script src="javascript files/ervet.js"></script>
     <title>Vet List</title>
 </head>
 <body>
@@ -36,19 +35,21 @@
             <div class="cnt-align">
                 <p class="white-text">Available Emergency & Critical Care</p>
                 <p class="white-text in-blk">within</p> 
-                <div class="dropdown in-blk">
-                    <button onclick="dropping()" class="dropbtn">5</button>
+                <div class="dropdown">
+                    <button onclick="myFunction()" class="dropbtn" id="drop">5</button>
                     <div id="myDropdown" class="dropdown-content">
-                        <p>5</p>
-                        <p>10</p>
-                        <p>15</p>
-                        <p>20</p>
-                        <p>25</p>
+                        <a class="child">5</a><br>
+                        <a class="child">10</a><br>
+                        <a class="child">15</a><br>
+                        <a class="child">20</a><br>
+                        <a class="child">25</a>
                     </div>
                 </div>
                 <p class="white-text in-blk">miles of 78757</p>
             </div>
         </div>
+
+        <script  src="javascript files/ervet.js"></script>
     
         <!-- !! -->
         <!-- Pet Profile Section -->
@@ -188,23 +189,23 @@
         <!-- !!! -->
         <div class ="fixed-bottom rgt-align clr-bgnd">
         <a href="map.html"><img src="img/map-icon.svg" class="list-icon"></a>
-        <ul class="nav btm-nav justify-content-center">
-            <li class="nav-item">
-                <a class="nav-link active" href="#"><img src='img/Finder-Pin.png' class='nav-img'><p class='nav-text'>Finder</p></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#"><img src='img/Calendar-Icon.png' class='nav-img'><p class='nav-text'>Calendar</p></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#"><img src='img/Phone Icon.png' class='nav-img'><p class='nav-text'>24hr Pet Support</p></a>
+        <ul class="nav btm-nav nav-fill">
+                <li class="nav-item">
+                  <a class="nav-link active" href="#"><img src='img/Finder.png' class='nav-img'><p class='nav-text'>Finder</p></a>
                 </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#"><img src='img/Learn-Icon.png' class='nav-learn'><p class='nav-text'>Learn</p></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#"><img src='img/My-Info-Icon.png' class='nav-info'><p class='nav-text'>My Info</p></a>
-            </li>
-        </ul>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"><img src='img/Calendar.png' class='nav-img'><p class='nav-text'>Calendar</p></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><img src='img/Home.png' class='nav-img'><p class='nav-text'>Home</p></a>
+                  </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"><img src='img/FirstAid.png' class='nav-learn'><p class='nav-text'>Learn</p></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link disabled" href="#"><img src='img/Pet_info.png' class='nav-info i-info'><p class='nav-text'>My Info</p></a>
+                </li>
+              </ul>
     </div>
 </body>
 </html>

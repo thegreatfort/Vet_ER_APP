@@ -4,6 +4,9 @@
     border-top-right-radius: 29px;
     margin-top: -20px;
     z-index: 1;
+    background-image: url("img/vet_map.png");
+    background-size: 230%;
+    background-position-x: -240px;
 }
 
 .top{
