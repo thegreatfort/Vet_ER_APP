@@ -89,9 +89,3 @@
         padding-bottom:-20px;
     }
 
-    .carousel-fade {
-        .carousel-item {
-          opacity: 0;
-          transition-duration: .4s;
-          transition-property: opacity;
-        }
